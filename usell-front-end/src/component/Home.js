@@ -23,6 +23,8 @@ import brand from "../images/company1.png";
 import firstOption from "../images/firstOption.png";
 import instagramLogo from "../images/instagramLogo.png";
 import twitterLogo from "../images/twitterLogo.png";
+import i1 from "../images/i1.png";
+import i2 from "../images/i2.png";
 // import customer1121 from "../images/customer1121.png";
 import couriorFullImg from "../images/couriorFullImg.png";
 import deviceslider from "../images/deviceslider.png";
@@ -239,8 +241,67 @@ const Home = () => {
         <div className="coutiourSection">
           <img src={couriorFullImg} alt="Girl in a jacket" style={{}} />
         </div>
-        <div className="ImgSlider">
-          <img src={deviceslider} alt="Girl in a jacket" style={{}} />
+        <div
+          className="ImgSlider"
+          style={{
+            backgroundColor: "#F54C45",
+            color: "white",
+            paddingTop: "30px",
+            paddingBottom: "50px",
+          }}
+        >
+          <div style={{ display: "flex" }}>
+            <div style={{ width: "20%" }}>
+              <img
+                src={i2}
+                alt="Girl in a jacket"
+                style={{ height: "200px", marginTop: "50px " }}
+              />
+            </div>
+            <div style={{ width: "80%" }}>
+              <center style={{ fontSize: "34px" }}>
+                Selling Your Device Is Simple
+              </center>
+              <center style={{ fontSize: "18px" }}>
+                Get an instant offer, ship your device for free, get paid.
+                <br /> It's all guaranteed for 30 days.
+                <center>
+                  <Link to={"/Varient/Phone/1"} className=" ">
+                    <button
+                      type="button"
+                      className="btn"
+                      style={{
+                        marginTop: "50px",
+                        color: "white",
+                        fontWeight: "bolder",
+                        fontSize: "20px",
+                        backgroundColor: "#00D2A8",
+                        padding: "20px 14%",
+                        borderRadius: "15px",
+                        borderTop: "none",
+                        borderRight: "none",
+                        borderLeft: "none",
+                        // borderBottomLeftRadius: "15px",
+                        borderBottom: "5px solid darkblue",
+                      }}
+                      //   style={{ backgroundColor: "#00D2A8" }}
+                    >
+                      Sell What you`ll get
+                    </button>
+                  </Link>
+                </center>
+              </center>
+            </div>
+            <div style={{ width: "20%" }}>
+              <img
+                src={i1}
+                alt="Girl in a jacket"
+                style={{ height: "200px", marginTop: "50px " }}
+              />
+            </div>
+            {/* <div></div> */}
+          </div>
+          {/* <img src={deviceslider} alt="Girl in a jacket" style={{}} /> */}
         </div>
       </div>
     </div>
