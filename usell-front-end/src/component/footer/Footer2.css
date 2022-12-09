@@ -28,8 +28,10 @@ a:focus {
 }
 
 footer {
-  background: #0c6667;
+  background: #00d2a8;
   font-family: "Nunito";
+  padding: 0px 12%;
+  font-size: 12px !important;
 }
 .linkdecorationn {
   margin-top: 100px;
@@ -98,13 +100,13 @@ footer {
 }
 
 .sociallinks {
-  border: 1px solid #5a5e63;
+  /* border: 1px solid #5a5e63; */
   margin: 4px;
   padding: 8px;
   font-size: 20px;
-  border-radius: 5px;
+  border-radius: 20px;
   background-color: white;
-  color: #00d2a8;
+  color: #0c6667;
 }
 .sociallinks:hover {
   background-color: #ffff00;
@@ -113,6 +115,31 @@ footer {
 .imageDesignFooter {
   width: 45%;
   height: 40px;
+}
+.numberDesign {
+  margin: 1px;
+  padding: 5px;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+.linksfooterdesugn {
+  padding: 1px 10px;
+  color: white;
+  margin: 5px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+.hiddenDivFoooter {
+  width: 25%;
+  font-size: 12px;
+  text-align: left;
+  transition: "all 0.3s ease";
+  /* align-items: flex-start; */
+}
+.hiddenDivFoooterItem {
+  /* align-content: flex-start; */
+  margin: 0px;
+  padding: 0px;
 }
 @media only screen and (max-width: 700px) {
   .imageDesignFooter {
