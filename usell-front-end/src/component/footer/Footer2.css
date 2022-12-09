@@ -1,5 +1,12 @@
+.footerRootSection {
+  margin-top: 30px;
+  font-family: Open Sans;
+}
 .text-small {
   font-size: 0.9rem;
+}
+.footerSection {
+  width: 25%;
 }
 .themecolor {
   color: #ffff00 !important;
@@ -30,7 +37,7 @@ a:focus {
 footer {
   background: #00d2a8;
   font-family: "Nunito";
-  padding: 0px 12%;
+  padding: 0px 15%;
   font-size: 12px !important;
 }
 .linkdecorationn {
@@ -118,9 +125,12 @@ footer {
 }
 .numberDesign {
   margin: 1px;
-  padding: 5px;
+  padding: 0px 3px;
   background-color: #ffffff;
   border-radius: 5px;
+  color: #0c6667;
+  font-weight: bolder;
+  font-size: 23px;
 }
 .linksfooterdesugn {
   padding: 1px 10px;
@@ -141,9 +151,24 @@ footer {
   margin: 0px;
   padding: 0px;
 }
+.footerThirdPart {
+  height: 300px;
+  overflow: hidden;
+  padding: 0px 12%;
+  margin-top: 5px;
+  background-color: #0c6667;
+}
+@media only screen and (max-width: 900px) {
+  .footerSection {
+    width: auto;
+  }
+}
 @media only screen and (max-width: 700px) {
   .imageDesignFooter {
     width: 35%;
+  }
+  .footerThirdPart {
+    padding: 0px 5%;
   }
 }
 .linkdecorationninner {

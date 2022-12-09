@@ -19,12 +19,18 @@ const Footer2 = () => {
   }, [stateFooter]);
   return (
     <>
-      <div style={{ marginTop: "30px" }}>
+      <div className="footerRootSection" style={{}}>
         <div className="d-flex flex-column h-100" style={{ color: "white" }}>
           <footer className="w-100 py-4 flex-shrink-0">
             <div className="container py-4 containerUpdate">
-              <div className="row gy-4 gx-5">
-                <div className="col-lg-2 col-md-6">
+              <div
+                className="row gy-4 gx-5"
+                // style={{ border: "1px solid red" }}
+              >
+                <div
+                  className="col-lg-2 col-md-8 footerSection"
+                  // style={{ border: "1px solid red" }}
+                >
                   <span
                     className="text-white mb-3"
                     style={{ fontSize: "15px", fontWeight: "bold" }}
@@ -94,7 +100,10 @@ const Footer2 = () => {
                     </div>
                   </ul>
                 </div>
-                <div className="col-lg-2 col-md-6">
+                <div
+                  className="col-lg-2 col-md-8 footerSection"
+                  // style={{ border: "1px solid red" }}
+                >
                   <span
                     className="text-white mb-3"
                     style={{
@@ -170,7 +179,10 @@ const Footer2 = () => {
                     </div> */}
                   </ul>
                 </div>
-                <div className="col-lg-2 col-md-8">
+                <div
+                  className="col-lg-2 col-md-8 footerSection"
+                  // style={{ border: "1px solid red" }}
+                >
                   <span
                     className="text-white mb-3"
                     style={{
@@ -235,7 +247,10 @@ const Footer2 = () => {
                     </div>
                   </ul>
                 </div>
-                <div className="col-lg-4 col-md-5">
+                <div
+                  className="col-lg-4 col-md-6 footerSection"
+                  // style={{ border: "1px solid red" }}
+                >
                   <span
                     className="text-white mb-3"
                     style={{
@@ -361,7 +376,7 @@ const Footer2 = () => {
                   padding: "50px 0",
                   textAlign: "center",
                   backgroundColor: "#00d2a8",
-                  marginTop: "20px",
+                  marginTop: "5px",
                   transition: "all 0.3s ease",
                   display: "flex",
                   color: "white",
@@ -410,20 +425,12 @@ const Footer2 = () => {
                   Sell Your Cell Phone <br />
                 </div>
                 <div className="hiddenDivFoooter">Recycle Cell Phones</div>
+                <div className="hiddenDivFoooter"></div>
               </div>
             ) : null}
           </div>
         </div>
-        <div
-          className="footerThirdPart"
-          style={{
-            height: "280px",
-            overflow: "hidden",
-            padding: "0px 12%",
-            marginTop: "2px",
-            backgroundColor: "#0C6667",
-          }}
-        >
+        <div className="footerThirdPart" style={{}}>
           <div className="p3top" style={{ display: "flex" }}>
             <img
               // crossorigin="anonymous"
@@ -449,7 +456,14 @@ const Footer2 = () => {
                 Devices Saved from Landfills
               </span>
             </div>
-            <div className="" style={{ marginTop: "70px", marginLeft: "30px" }}>
+            <div
+              className=""
+              style={{
+                marginTop: "70px",
+                marginLeft: "30px",
+                // color: "#0C6667",
+              }}
+            >
               <span className="numberDesign">$</span>
               <span className="numberDesign">5</span>
               <span className="numberDesign">0</span>
@@ -505,7 +519,12 @@ const Footer2 = () => {
             </div>
             <div
               className="rightBottom"
-              style={{ fontSize: "12px", marginLeft: "50%", marginTop: "20px" }}
+              style={{
+                fontSize: "12px",
+                marginLeft: "50%",
+                marginTop: "20px",
+                color: "white",
+              }}
             >
               Customer Security Guaranteed:
               <div style={{ display: "flex" }}>
