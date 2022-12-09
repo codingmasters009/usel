@@ -57,12 +57,12 @@ const Home = () => {
       <div className="bodyroothome">
         <div>
           <center>
-            <div className="" style={{ color: "#506383" }}>
-              <p style={{ fontSize: "34px" }}>
+            <div className="upperbody" >
+              <p>
                 The Most Money For The Least Effort
               </p>
             </div>
-            <div>
+            <div className="upperbody">
               <p style={{ color: "#747774", fontSize: "22px" }}>
                 Working or damaged, sell your used phone in seconds
               </p>
@@ -82,7 +82,7 @@ const Home = () => {
                       type="button"
                       className="btn"
                       style={{
-                        marginTop: "83px",
+                        marginTop: "70px",
                         color: "white",
                         fontWeight: "bolder",
                         fontSize: "20px",

@@ -1,7 +1,19 @@
 .bodyroothome {
   margin: 0px 15%;
   /* border: 1px solid red; */
+  padding: 2%;
   overflow: hidden;
+}
+.upperbody{
+  font-size: 34px;
+  color: #506383;
+  text-align: center;
+  font-weight: 400;
+  line-height: 40px;
+  margin-bottom: 10px;
+  margin: 0;
+  padding: 10;
+  font-family: 'Open Sans',Arial,Helvetica,sans-serif;
 }
 
 .itemGrid {
@@ -85,7 +97,9 @@
     /* width: 300px; */
   }
   .topimagesItem {
-    width: 100%;
+    width: 404px;
+    height: 294px;
+    margin-bottom: 10px;
   }
   .topimages {
     display: block;

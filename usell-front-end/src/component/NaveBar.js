@@ -17,7 +17,7 @@ const NaveBar = () => {
             }}
           >
             <div
-              style={{ width: "20%", textAlign: "right", paddingTop: "10px" }}
+              style={{ width: "25%", textAlign: "right", paddingTop: "10px" }}
             >
               <Link to="/" className=" ">
                 {" "}
@@ -65,9 +65,9 @@ const NaveBar = () => {
                     className="navItemtop"
                     style={{ borderRight: "1px solid white" }}
                   >
-                    help
+                    Help
                   </div>
-                  <div className="navItemtop">login</div>
+                  <div className="navItemtop">Log In</div>
                 </div>
               </div>
               <div
@@ -78,7 +78,7 @@ const NaveBar = () => {
                     className="navItemtopDown"
                     style={{ borderRight: "1px solid lightgray" }}
                   >
-                    Sell iphone
+                    Sell iPhone
                   </div>
                 </Link>
                 <Link to={"/Varient/Phone/1"} className=" ">
@@ -86,7 +86,7 @@ const NaveBar = () => {
                     className="navItemtopDown"
                     style={{ borderRight: "1px solid lightgray" }}
                   >
-                    Sell Cell phone
+                    Sell Phone
                   </div>
                 </Link>
                 {/* <div className="navItemtopDown">Sell by category</div> */}
@@ -98,7 +98,7 @@ const NaveBar = () => {
           className="pb"
           style={{ height: "2px", width: "100%", border: "1px solid #ffff00" }}
         ></div>
-        <div className="" style={{ fontSize: "18px", color: "white" }}>
+        <div className="" style={{font:"Open Sans,Arial,Helvetica,sans-serif", fontSize:    "20px", color: "white" }}>
           <center>
             CoronaVirus: How uSell is Staying Healthy and safe for You .
             <a className="sc" href="https://www.w3schools.com">
