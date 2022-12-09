@@ -1,0 +1,986 @@
+{
+  "ipadmini5": [
+    [
+      {
+        "device_id": 1,
+        "device_Name": "iPad Mini 5 256GB WiFi + Cellular (Unlocked)",
+        "f_url": "037",
+        "device_price": "21"
+      },
+      {
+        "device_id": 2,
+        "device_Name": "iPad Mini 5 64GB WiFi + Cellular (Unlocked)",
+        "f_url": "038",
+        "device_price": "21"
+      },
+      {
+        "device_id": 3,
+        "device_Name": "iPad Mini 5 256GB WiFi",
+        "f_url": "039",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Mini 5 64GB WiFi",
+        "f_url": "040",
+        "device_price": "21"
+      }
+    ]
+  ],
+  "ipadmini4": [
+    [
+      {
+        "device_id": 1,
+        "device_Name": "iPad Mini 4 128GB WiFi + Cellular (Unlocked)",
+        "f_url": "041",
+        "device_price": "21"
+      },
+      {
+        "device_id": 2,
+        "device_Name": "iPad Mini 4 16GB WiFi + Cellular (Unlocked)",
+        "f_url": "042",
+        "device_price": "21"
+      },
+      {
+        "device_id": 3,
+        "device_Name": "iPad Mini 4 32GB WiFi + Cellular (Unlocked)",
+        "f_url": "043",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Mini 4 64GB WiFi + Cellular (Unlocked)",
+        "f_url": "044",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Mini 4  (Unlocked)",
+        "f_url": "045",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Mini 4 32GB WiFi",
+        "f_url": "046",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Mini 4(WiFi Only)",
+        "f_url": "047",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Mini 4 16GB WiFi Only",
+        "f_url": "048",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Mini 4 64GB WiFi Only",
+        "f_url": "049",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Mini 4 128GB WiFi Only",
+        "f_url": "050",
+        "device_price": "21"
+      }
+    ]
+  ],
+  "ipadmini3": [
+    [
+      {
+        "device_id": 1,
+        "device_Name": "Apple iPad Mini 3 16GB WiFi + 4G (AT&T)",
+        "f_url": "051",
+        "device_price": "21"
+      },
+      {
+        "device_id": 2,
+        "device_Name": "Apple iPad Mini 3 64GB WiFi + 4G (AT&T)",
+        "f_url": "052",
+        "device_price": "21"
+      },
+      {
+        "device_id": 3,
+        "device_Name": "Apple iPad Mini 3 128GB WiFi + 4G (AT&T)",
+        "f_url": "053",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini 3 16GB WiFi + 4G (Verizon)",
+        "f_url": "054",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini 3 64GB WiFi + 4G (Verizon)",
+        "f_url": "055",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini 3 128GB WiFi + 4G (Verizon)",
+        "f_url": "056",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini 3 16GB WiFi",
+        "f_url": "057",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini 3 64GB WiFi",
+        "f_url": "058",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini 3 128GB WiFi",
+        "f_url": "059",
+        "device_price": "21"
+      }
+    ]
+  ],
+  "ipadretina": [
+    [
+      {
+        "device_id": 1,
+        "device_Name": "Apple iPad Mini with Retina Display 16GB (AT&T)",
+        "f_url": "060",
+        "device_price": "21"
+      },
+      {
+        "device_id": 2,
+        "device_Name": "Apple iPad Mini with Retina Display 32GB (AT&T)",
+        "f_url": "061",
+        "device_price": "21"
+      },
+      {
+        "device_id": 3,
+        "device_Name": "Apple iPad Mini with Retina Display 64GB (AT&T)",
+        "f_url": "062",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini with Retina Display 128GB (AT&T)",
+        "f_url": "063",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini with Retina Display 16GB WiFi",
+        "f_url": "064",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini with Retina Display 32GB WiFi",
+        "f_url": "065",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini with Retina Display 64GB WiFi",
+        "f_url": "066",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini with Retina Display 128GB WiFi",
+        "f_url": "067",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini with Retina Display 16GB (Sprint)",
+        "f_url": "068",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini with Retina Display 32GB (Sprint)",
+        "f_url": "069",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini with Retina Display 64GB (Sprint)",
+        "f_url": "070",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini with Retina Display 128GB (Sprint)",
+        "f_url": "071",
+        "device_price": "21"
+      }
+    ]
+  ],
+  "ipadmini": [
+    [
+      {
+        "device_id": 1,
+        "device_Name": "Apple iPad Mini 16GB WiFi + 4G (AT&T)",
+        "f_url": "072",
+        "device_price": "21"
+      },
+      {
+        "device_id": 2,
+        "device_Name": "Apple iPad Mini 32GB WiFi + 4G (AT&T)",
+        "f_url": "073",
+        "device_price": "21"
+      },
+      {
+        "device_id": 3,
+        "device_Name": "Apple iPad Mini 64GB WiFi + 4G (AT&T)",
+        "f_url": "074",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini 16GB WiFi + 4G (Verizon)",
+        "f_url": "075",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini 32GB WiFi + 4G (Verizon)",
+        "f_url": "076",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini 64GB WiFi + 4G (Verizon)",
+        "f_url": "077",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini 16GB WiFi",
+        "f_url": "078",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini 32GB WiFi",
+        "f_url": "079",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini 64GB WiFi",
+        "f_url": "080",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini 16GB WiFi + 4G (Sprint)",
+        "f_url": "081",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini 32GB WiFi + 4G (Sprint)",
+        "f_url": "082",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad Mini 64GB WiFi + 4G (Sprint)",
+        "f_url": "083",
+        "device_price": "21"
+      }
+    ]
+  ],
+  "ipadpro4": [
+    [
+      {
+        "device_id": 1,
+        "device_Name": "iPad Pro 4th Gen 11 1TB WiFi + Cellular (Unlocked)",
+        "f_url": "084",
+        "device_price": "21"
+      },
+      {
+        "device_id": 2,
+        "device_Name": "iPad Pro 4th Gen 11 512GB WiFi + Cellular (Unlocked)",
+        "f_url": "085",
+        "device_price": "21"
+      },
+      {
+        "device_id": 3,
+        "device_Name": "iPad Pro 4th Gen 11 256GB WiFi + Cellular (Unlocked)",
+        "f_url": "086",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 4th Gen 11 128GB WiFi + Cellular (Unlocked)",
+        "f_url": "087",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 4th Gen 12.9 1TB WiFi + Cellular (Unlocked)",
+        "f_url": "088",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 4th Gen 12.9 512GB WiFi + Cellular (Unlocked)",
+        "f_url": "089",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 4th Gen 12.9 256GB WiFi + Cellular (Unlocked)",
+        "f_url": "090",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 4th Gen 12.9 128GB WiFi + Cellular (Unlocked)",
+        "f_url": "091",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 4th Gen 11 1TB WiFi",
+        "f_url": "092",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 4th Gen 11 512GB WiFi",
+        "f_url": "093",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 4th Gen 11 256GB WiFi",
+        "f_url": "094",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 4th Gen 11 128GB WiFi",
+        "f_url": "095",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 4th Gen 12.9 1TB WiFi",
+        "f_url": "096",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 4th Gen 12.9 512GB WiFi",
+        "f_url": "097",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 4th Gen 12.9 256GB WiFi",
+        "f_url": "098",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 4th Gen 12.9 128GB WiFi",
+        "f_url": "099",
+        "device_price": "21"
+      }
+    ]
+  ],
+  "ipadpro3": [
+    [
+      {
+        "device_id": 1,
+        "device_Name": "iPad Pro 3rd Gen 11 1TB WiFi + Cellular (Unlocked)",
+        "f_url": "100",
+        "device_price": "21"
+      },
+      {
+        "device_id": 2,
+        "device_Name": "iPad Pro 3rd Gen 11 256GB WiFi + Cellular (Unlocked)",
+        "f_url": "101",
+        "device_price": "21"
+      },
+      {
+        "device_id": 3,
+        "device_Name": "iPad Pro 3rd Gen 11 512GB WiFi + Cellular (Unlocked)",
+        "f_url": "102",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 3rd Gen 11 64GB WiFi + Cellular (Unlocked)",
+        "f_url": "103",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 3rd Gen 12.9 1TB WiFi + Cellular (Unlocked)",
+        "f_url": "104",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 3rd Gen 12.9 512GB WiFi + Cellular (Unlocked)",
+        "f_url": "105",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 3rd Gen 12.9 256GB WiFi + Cellular (Unlocked)",
+        "f_url": "106",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 3rd Gen 12.9 64GB WiFi + Cellular (Unlocked)",
+        "f_url": "107",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 3rd Gen 11 256GB WiFi",
+        "f_url": "108",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 3rd Gen 11 512GB WiFi",
+        "f_url": "109",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 3rd Gen 11 64GB WiFi",
+        "f_url": "110",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 3rd Gen 12.9 1TB WiFi",
+        "f_url": "111",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 3rd Gen 12.9 256GB WiFi",
+        "f_url": "112",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 3rd Gen 12.9 512GB WiFi",
+        "f_url": "113",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 3rd Gen 11 1TB WiFi",
+        "f_url": "114",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 3rd Gen 12.9 64GB WiFi",
+        "f_url": "115",
+        "device_price": "21"
+      }
+    ]
+  ],
+  "ipadpro2": [
+    [
+      {
+        "device_id": 1,
+        "device_Name": "iPad Pro 2nd Gen 12.9 64GB WiFi + Cellular (Unlocked)",
+        "f_url": "112",
+        "device_price": "21"
+      },
+      {
+        "device_id": 2,
+        "device_Name": "iPad Pro 2nd Gen 12.9 512GB WiFi + Cellular (Unlocked)",
+        "f_url": "113",
+        "device_price": "21"
+      },
+      {
+        "device_id": 3,
+        "device_Name": "iPad Pro 2nd Gen 12.9 256GB WiFi + Cellular (Unlocked)",
+        "f_url": "114",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 2nd Gen 10.5 64GB WiFi + Cellular (Unlocked)",
+        "f_url": "115",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 2nd Gen 10.5 512GB WiFi + Cellular (Unlocked)",
+        "f_url": "116",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 2nd Gen 10.5 256GB WiFi + Cellular (Unlocked)",
+        "f_url": "117",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 2nd Gen 12.9 64GB WiFi",
+        "f_url": "118",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 2nd Gen 12.9 512GB WiFi",
+        "f_url": "119",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 2nd Gen 12.9 256GB WiFi",
+        "f_url": "120",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 2nd Gen 10.5 512GB WiFi",
+        "f_url": "121",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 2nd Gen 10.5 64GB WiFi",
+        "f_url": "122",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 2nd Gen 10.5 256GB WiFi",
+        "f_url": "123",
+        "device_price": "21"
+      }
+    ]
+  ],
+  "ipadpro10": [
+    [
+      {
+        "device_id": 1,
+        "device_Name": "iPad Pro 10.5 inch 256GB (Unlocked)",
+        "f_url": "124",
+        "device_price": "21"
+      },
+      {
+        "device_id": 2,
+        "device_Name": "iPad Pro 10.5 inch 64GB (Unlocked)",
+        "f_url": "125",
+        "device_price": "21"
+      },
+      {
+        "device_id": 3,
+        "device_Name": "iPad Pro 10.5 inch 512GB (Unlocked)",
+        "f_url": "126",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 10.5 inch 64GB (WiFi Only)",
+        "f_url": "127",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 10.5 inch 512GB (WiFi Only)",
+        "f_url": "128",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 10.5 inch 256GB (WiFi Only)",
+        "f_url": "129",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 10.5 inch 64GB (AT&T)",
+        "f_url": "130",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 10.5 inch 512GB (AT&T)",
+        "f_url": "131",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 10.5 inch 256GB (AT&T)",
+        "f_url": "132",
+        "device_price": "21"
+      }
+    ]
+  ],
+  "ipadpro12": [
+    [
+      {
+        "device_id": 1,
+        "device_Name": "iPad Pro 12.9 inch 64GB (Unlocked)",
+        "f_url": "133",
+        "device_price": "21"
+      },
+      {
+        "device_id": 2,
+        "device_Name": "iPad Pro 12.9 inch 512GB (Unlocked)",
+        "f_url": "134",
+        "device_price": "21"
+      },
+      {
+        "device_id": 3,
+        "device_Name": "iPad Pro 12.9 inch 256GB (Unlocked)",
+        "f_url": "135",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 12.9 inch 256GB (AT&T)",
+        "f_url": "136",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 12.9 inch 512GB (AT&T)",
+        "f_url": "137",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 12.9 inch 64GB (AT&T)",
+        "f_url": "138",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 12.9 inch 256GB (WiFi Only)",
+        "f_url": "139",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 12.9 inch 64GB (WiFI only)",
+        "f_url": "140",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 12.9 inch 512GB (WiFi Only)",
+        "f_url": "141",
+        "device_price": "21"
+      }
+    ]
+  ],
+  "ipadpro1": [
+    [
+      {
+        "device_id": 1,
+        "device_Name": "iPad Pro 1st Gen 12.9 128GB WiFi + Cellular (Unlocked)",
+        "f_url": "142",
+        "device_price": "21"
+      },
+      {
+        "device_id": 2,
+        "device_Name": "iPad Pro 1st Gen 12.9 256GB WiFi + Cellular (Unlocked)",
+        "f_url": "143",
+        "device_price": "21"
+      },
+      {
+        "device_id": 3,
+        "device_Name": "iPad Pro 1st Gen 9.7 128GB WiFi + Cellular (Unlocked)",
+        "f_url": "144",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 1st Gen 9.7 32GB WiFi + Cellular (Unlocked)",
+        "f_url": "145",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 1st Gen 12.9 256GB WiFi",
+        "f_url": "146",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 1st Gen 12.9 32GB WiFi",
+        "f_url": "147",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 1st Gen 12.9 128GB WiFi",
+        "f_url": "148",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 1st Gen 9.7 128GB WiFi",
+        "f_url": "149",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 1st Gen 9.7 256GB WiFi",
+        "f_url": "150",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad Pro 1st Gen 9.7 32GB WiFi",
+        "f_url": "151",
+        "device_price": "21"
+      }
+    ]
+  ],
+  "ipad4": [
+    [
+      {
+        "device_id": 1,
+        "device_Name": "Apple iPad 4th Generation 16GB WiFi + 4G (AT&T)",
+        "f_url": "153",
+        "device_price": "21"
+      },
+      {
+        "device_id": 2,
+        "device_Name": "Apple iPad 4th Generation 32GB WiFi + 4G (AT&T)",
+        "f_url": "154",
+        "device_price": "21"
+      },
+      {
+        "device_id": 3,
+        "device_Name": "Apple iPad 4th Generation 64GB WiFi + 4G (AT&T)",
+        "f_url": "155",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 4th Generation 128GB WiFi + 4G (AT&T)",
+        "f_url": "156",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 4th Generation 16GB WiFi + 4G (Verizon)",
+        "f_url": "157",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 4th Generation 32GB WiFi + 4G (Verizon)",
+        "f_url": "158",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 4th Generation 64GB WiFi + 4G (Verizon)",
+        "f_url": "159",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 4th Generation 128GB WiFi + 4G (Verizon)",
+        "f_url": "160",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 4th Generation 16GB WiFi",
+        "f_url": "161",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 4th Generation 32GB WiFi",
+        "f_url": "162",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 4th Generation 64GB WiFi",
+        "f_url": "163",
+        "device_price": "21"
+      }
+    ]
+  ],
+  "ipad3": [
+    [
+      {
+        "device_id": 1,
+        "device_Name": "Apple iPad 3rd Generation 16GB 4G (AT&T)",
+        "f_url": "162",
+        "device_price": "21"
+      },
+      {
+        "device_id": 2,
+        "device_Name": "Apple iPad 3rd Generation 32GB 4G (AT&T)",
+        "f_url": "163",
+        "device_price": "21"
+      },
+      {
+        "device_id": 3,
+        "device_Name": "Apple iPad 3rd Generation 64GB 4G (AT&T)",
+        "f_url": "164",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 3rd Generation 16GB 4G (Verizon)",
+        "f_url": "165",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 3rd Generation 32GB 4G (Verizon)",
+        "f_url": "166",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 3rd Generation 64GB 4G (Verizon)",
+        "f_url": "167",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 3rd Generation 16GB Wifi",
+        "f_url": "168",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 3rd Generation 32GB Wifi",
+        "f_url": "169",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 3rd Generation 64GB Wifi",
+        "f_url": "170",
+        "device_price": "21"
+      }
+    ]
+  ],
+  "ipad2": [
+    [
+      {
+        "device_id": 1,
+        "device_Name": "Apple iPad 2 16gb WiFi + 3G (AT&T)",
+        "f_url": "171",
+        "device_price": "21"
+      },
+      {
+        "device_id": 2,
+        "device_Name": "Apple iPad 2 32gb WiFi + 3G (AT&T)",
+        "f_url": "172",
+        "device_price": "21"
+      },
+      {
+        "device_id": 3,
+        "device_Name": "Apple iPad 2 64gb WiFi + 3G (AT&T)",
+        "f_url": "173",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 2 16gb WiFi + 3G (Verizon)",
+        "f_url": "174",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 2 32gb WiFi + 3G (Verizon)",
+        "f_url": "175",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 2 64gb WiFi + 3G (Verizon)",
+        "f_url": "176",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 2 16gb Wifi",
+        "f_url": "177",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 2 32gb WiFi",
+        "f_url": "178",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 2 64gb WiFi",
+        "f_url": "179",
+        "device_price": "21"
+      }
+    ]
+  ],
+  "ipad1": [
+    [
+      {
+        "device_id": 1,
+        "device_Name": "Apple iPad 16gb WiFi + 3G  (AT&T)",
+        "f_url": "177",
+        "device_price": "21"
+      },
+      {
+        "device_id": 2,
+        "device_Name": "Apple iPad 32gb WiFi + 3G  (AT&T)",
+        "f_url": "178",
+        "device_price": "21"
+      },
+      {
+        "device_id": 3,
+        "device_Name": "Apple iPad 64gb WiFi+ 3G (AT&T)",
+        "f_url": "179",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 16gb WiFi",
+        "f_url": "180",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 32gb WiFi",
+        "f_url": "181",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "Apple iPad 64gb WiFi",
+        "f_url": "182",
+        "device_price": "21"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "ipad": [
+    [
+      {
+        "device_id": 1,
+        "device_Name": "iPad 8th Generation",
+        "device_img": "require(../image/ipad01.png)",
+        "device_price": "21"
+      },
+      {
+        "device_id": 2,
+        "device_Name": "iPad 7th Generation",
+        "device_img": "image/ipad02.png",
+        "device_price": "21"
+      },
+      {
+        "device_id": 3,
+        "device_Name": "iPad 6th Generation",
+        "device_img": "image/ipad03.png",
+        "device_price": "21"
+      },
+      {
+        "device_id": 4,
+        "device_Name": "iPad 5th Generation",
+        "device_img": "image/ipad04.png",
+        "device_price": "21"
+      },
+      {
+        "device_id": 5,
+        "device_Name": "iPad Air 3",
+        "device_img": "image/ipad05.png",
+        "device_price": "21"
+      },
+      {
+        "device_id": 6,
+        "device_Name": "iPad Air 2",
+        "device_img": "image/ipad06.png",
+        "device_price": "21"
+      },
+      {
+        "device_id": 7,
+        "device_Name": " iPad Air",
+        "device_img": "image/ipad07.png",
+        "device_price": "21"
+      },
+      {
+        "device_id": 8,
+        "device_Name": "iPad Mini 5",
+        "device_img": "image/ipad8.png",
+        "device_price": "21"
+      },
+      {
+        "device_id": 9,
+        "device_Name": "iPad Mini 4",
+        "device_img": "image/ipad09.png",
+        "device_price": "21"
+      },
+      {
+        "device_id": 10,
+        "device_Name": "iPad Mini 3",
+        "device_img": "image/ipad010.png",
+        "device_price": "21"
+      },
+      {
+        "device_id": 11,
+        "device_Name": " iPad Mini with Retina Display",
+        "device_img": "image/ipad011.png",
+        "device_price": "21"
+      },
+      {
+        "device_id": 12,
+        "device_Name": " iPad Mini ",
+        "device_img": "image/ipad012.png",
+        "device_price": "21"
+      },
+      {
+        "device_id": 13,
+        "device_Name": " iPad Pro 4th Gen",
+        "device_img": "image/ipad013.png",
+        "device_price": "21"
+      },
+      {
+        "device_id": 14,
+        "device_Name": "iPad Pro 3th Gen",
+        "device_img": "image/ipad014.png",
+        "device_price": "21"
+      },
+      {
+        "device_id": 15,
+        "device_Name": "iPad Pro 2th Gen",
+        "device_img": "image/ipad015.png",
+        "device_price": "21"
+      },
+      {
+        "device_id": 16,
+        "device_Name": " iPad Pro  10.5 inch",
+        "device_img": "image/ipad016.png",
+        "device_price": "21"
+      },
+      {
+        "device_id": 17,
+        "device_Name": " iPad Pro  12.9 inch",
+        "device_img": "image/ipad017.png",
+        "device_price": "21"
+      },
+      {
+        "device_id": 18,
+        "device_Name": "iPad Pro  1st Gen",
+        "device_img": "image/ipad018.png",
+        "device_price": "21"
+      },
+      {
+        "device_id": 19,
+        "device_Name": "iPad 4",
+        "device_img": "image/ipad019.png",
+        "device_price": "21"
+      },
+      {
+        "device_id": 20,
+        "device_Name": "iPad 3",
+        "device_img": "image/ipad020.png",
+        "device_price": "21"
+      },
+      {
+        "device_id": 21,
+        "device_Name": "iPad 2",
+        "device_img": "image/ipad021.png",
+        "device_price": "21"
+      },
+      {
+        "device_id": 22,
+        "device_Name": "iPad 1",
+        "device_img": "image/ipad022.png",
+        "device_price": "21"
+      }
+    ]
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "001",
+    "img_url": "https://i.picsum.photos/id/646/200/300.jpg?hmac=qCJ0bf6G6oSxx8YMMc1ZLVryK-w596XjRD3o8cXQLFc",
+    "title": "product one",
+    "spects": "PRODUCT iPad 8th Generation 128GB WiFi + Cellular (Unlocked)",
+    "description": "description one",
+    "price": "120"
+  },
+  {
+    "id": "002",
+    "img_url": "https://i.picsum.photos/id/2/5000/3333.jpg?hmac=_KDkqQVttXw_nM-RyJfLImIbafFrqLsuGO5YuHqD-qQ",
+    "title": "product two",
+    "spects": "PRODUCT iPad 8th Generation 128GB WiFi + Cellular (Unlocked)",
+    "description": "description two",
+    "price": "120"
+  },
+  {
+    "id": "003",
+    "img_url": "https://i.picsum.photos/id/3/5000/3333.jpg?hmac=GDjZ2uNWE3V59PkdDaOzTOuV3tPWWxJSf4fNcxu4S2g",
+    "spects": "PRODUCT iPad 8th Generation 128GB WiFi + Cellular (Unlocked)",
+    "title": "product three",
+    "description": "description three",
+    "price": "120"
+  }
+]

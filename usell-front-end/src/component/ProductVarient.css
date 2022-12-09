@@ -1,0 +1,24 @@
+.ProductVarientRoot {
+  font-size: 18px !important;
+}
+
+.textColor {
+  color: #00d2a8 !important;
+}
+.textColor:hover {
+  color: #ffff00 !important;
+}
+
+.productInfo {
+  margin: 20px 10%;
+  display: flex;
+}
+.productdata {
+  padding: 40px;
+}
+@media only screen and (max-width: 600px) {
+  .productInfo {
+    /* margin: 20px 10%; */
+    display: block;
+  }
+}

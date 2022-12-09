@@ -1,0 +1,306 @@
+.pc {
+  color: #00d2a8;
+}
+.sc {
+  color: #ffff00;
+}
+.gleftsection {
+  color: darkgray;
+  width: 70%;
+}
+.grightsection {
+  padding: 50px 20px;
+  width: 30%;
+}
+.gdivideSection {
+  margin: 30px 20%;
+  display: flex;
+}
+.OfferPage {
+  margin: 0px 15%;
+}
+.gHeader {
+  background-color: #f6f7f4;
+  /* padding: 10px; */
+  padding: 10px 20%;
+}
+.pgrid {
+  display: flex;
+}
+.pgrid div {
+  /* display: flex; */
+  width: 50%;
+  margin: 5px;
+}
+.gGridItem div {
+  padding: 5px;
+  font-size: 12px;
+}
+.gGridItem img {
+  width: 60px;
+  height: 75px;
+}
+.TdivideSection {
+  display: flex;
+  margin: 20px 20%;
+}
+.TdivideSectionleft,
+.TdivideSectionright {
+  width: 50%;
+  padding: 10px;
+}
+.contactusRoot {
+  margin: 20px 20%;
+}
+.mobbody {
+  margin: 20px 20%;
+  display: flex;
+}
+.mobMain {
+  width: 70%;
+}
+.addSection {
+  width: 30%;
+}
+
+.ProductVarientGrid {
+  margin: 100px;
+}
+.productViewSection {
+  /* background-color: #bf00ff; */
+  height: 300px;
+  /* border: 1px solid red !important; */
+}
+.productViewSectionImg {
+  height: 120px;
+  overflow: hidden;
+}
+.productViewSectionText {
+  font-size: 12px;
+}
+.OfferDesign {
+  /* margin-top: 100px; */
+  border-radius: 10px;
+  padding: 8px;
+  font-size: 12px;
+  background-color: #f54c45;
+}
+.OfferBodyDivision {
+  width: 100%;
+  display: flex;
+  /* grid-template-columns: repeat(3, 1fr); */
+}
+.leftsideProductView {
+  /* border: 1px solid yellow; */
+  width: 20%;
+  overflow: hidden;
+}
+.rightsideProductView {
+  /* border: 1px solid red; */
+  width: 70%;
+}
+.ProductVarientHeader {
+  padding: 15px;
+  width: 100%;
+  display: flex;
+  overflow: hidden;
+  background-color: #f6f7f4;
+}
+.VarientHeaderTitle {
+  width: 50%;
+  padding-left: 50px;
+}
+.ProductVarientdiv {
+  width: 100%;
+  overflow: hidden;
+  margin: 10px 10%;
+}
+.ProductVarientGrid div {
+  margin: 3px;
+}
+.ProductVarientGrid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+}
+.paymentSection {
+  width: 70%;
+  overflow: hidden;
+}
+.paymentProductSection {
+  width: 30%;
+  overflow: hidden;
+}
+.flexfix {
+  display: flex;
+}
+.paymentpayImg {
+  width: 100%;
+  height: 80px;
+}
+@media only screen and (max-width: 700px) {
+  .OfferPage {
+    margin: 0px 10%;
+  }
+  .flexfix {
+    display: block;
+  }
+  .paymentpayImg {
+    width: 100%;
+    margin: 5px 1px;
+  }
+  .paymentSection {
+    width: 100%;
+    overflow: hidden;
+  }
+  .paymentProductSection {
+    width: 100%;
+    overflow: hidden;
+  }
+  .ProductVarientdiv {
+    width: 100%;
+    overflow: hidden;
+    margin: 10px 1%;
+  }
+  .ProductVarientGrid div {
+    margin: 0px;
+  }
+  .ProductVarientGrid {
+    /* display: grid; */
+    grid-template-columns: repeat(4, 1fr);
+  }
+  .ProductVarientHeader {
+    font-size: 14px;
+    padding: 1px;
+    width: 100%;
+    display: block;
+    overflow: hidden;
+    background-color: #f6f7f4;
+  }
+  .VarientHeaderTitle {
+    /* align-items: center; */
+    width: 100%;
+    padding-left: 10px;
+  }
+  .folowButton {
+    display: none;
+  }
+  .leftsideProductView {
+    width: 100%;
+  }
+  .rightsideProductView {
+    width: 100%;
+  }
+  .OfferBodyDivision {
+    font-size: 14px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+  .gHeader {
+    /* background-color: #f6f7f4; */
+    /* padding: 10px; */
+    padding: 10px 10%;
+  }
+  .mobbody {
+    margin: 20px 10%;
+    display: block;
+  }
+  .mobMain {
+    width: 100%;
+  }
+  .addSection {
+    width: 100%;
+  }
+  .contactusRoot {
+    margin: 10px 10%;
+  }
+  .TdivideSection {
+    display: flex;
+    margin: 10px 10%;
+  }
+  .gGridItem div {
+    padding: 2px;
+    font-size: 10px;
+  }
+  .gGridItem img {
+    width: 40px;
+    height: 65px;
+  }
+  .gleftsection {
+    color: darkgray;
+    width: 70%;
+  }
+  .grightsection {
+    padding: 50px 20px;
+    width: 30%;
+  }
+  .gdivideSection {
+    margin: 30px 5%;
+    display: flex;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .OfferPage {
+    margin: 0px 1%;
+  }
+  .ProductVarientdiv {
+    width: 100%;
+    overflow: hidden;
+    margin: 10px 0px;
+    /* padding: 0px; */
+  }
+  .ProductVarientHeader {
+    display: none;
+  }
+  .ProductVarientGrid div {
+    margin: 0px;
+  }
+  .ProductVarientGrid {
+    /* display: grid; */
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .gleftsection {
+    /* color: darkgray; */
+    width: 70%;
+  }
+  .mobbody {
+    margin: 10px 5%;
+    display: block;
+  }
+  .contactusRoot {
+    margin: 10px 5%;
+  }
+  .TdivideSection {
+    display: block;
+    margin: 10px 5%;
+  }
+  .TdivideSectionleft,
+  .TdivideSectionright {
+    width: 100%;
+    padding: 20px;
+  }
+  .grightsection {
+    padding: 10px 5px;
+    /* width: 30%; */
+  }
+  .gdivideSection {
+    margin: 10px 1%;
+    display: flex;
+  }
+  .gHeader {
+    background-color: #f6f7f4;
+    /* padding: 10px; */
+    padding: 10px 5%;
+  }
+  .leftsideProductView {
+    width: 100%;
+  }
+  .rightsideProductView {
+    width: 100%;
+  }
+  .OfferBodyDivision {
+    font-size: 14px;
+
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}

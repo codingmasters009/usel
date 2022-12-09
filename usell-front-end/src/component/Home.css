@@ -1,0 +1,123 @@
+.bodyroothome {
+  margin: 0px 15%;
+  /* border: 1px solid red; */
+  overflow: hidden;
+}
+
+.itemGrid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  /* margin: 5px 15%; */
+}
+/* .productGrid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  margin: 5px 15%;
+} */
+.productGridItem {
+  margin-top: 10px;
+  padding: 10px;
+  /* border: 0.4 solid lightgray; */
+  border-radius: 5px;
+  width: 170px;
+  height: 170px;
+  overflow: hidden;
+}
+.imgdivProduct {
+  height: 80%;
+}
+.imgdivProduct img:hover {
+  margin-top: 5px;
+  transition: width 4s;
+}
+/* ////////////////// customer //////////////// */
+.CustomerSection {
+  margin-top: 20px;
+  background-color: #f6f7f2;
+}
+.CustomerSectionInner {
+  display: flex;
+  margin: 10px 20%;
+  /* //   height: "200px", */
+  padding-top: 50px;
+}
+.counter {
+  margin: 20px 20%;
+  display: flex;
+}
+.counter div {
+  width: 50%;
+}
+.coutiourSection {
+  margin: 30px 10%;
+}
+.coutiourSection img {
+  width: 100%;
+  height: 100px;
+}
+.ImgSlider img {
+  width: 100%;
+  height: 350px;
+}
+.topimages {
+  display: flex;
+  /* margin: 10px 15%; */
+}
+.topimagesItem {
+  width: 50%;
+}
+.imgMaindealsimg {
+  width: 90%;
+  /* width: 500px; */
+}
+@media only screen and (max-width: 700px) {
+  .bodyroothome {
+    margin: 0px 10%;
+  }
+  .counter {
+    /* margin: 20px 20%; */
+    display: block;
+  }
+  .hidenSection {
+    display: none;
+  }
+  .imgMaindealsimg {
+    /* width: 300px; */
+  }
+  .topimagesItem {
+    width: 100%;
+  }
+  .topimages {
+    display: block;
+    /* margin: 2px 5%; */
+  }
+  .CustomerSectionInner {
+    /* display: flex; */
+    margin: 2px 10%;
+    /* //   height: "200px", */
+    padding-top: 20px;
+  }
+  .coutiourSection {
+    display: none;
+  }
+  .coutiourSection img {
+    width: 100%;
+    height: 150px;
+  }
+}
+@media only screen and (max-width: 450px) {
+  .bodyroothome {
+    margin: 0px 1%;
+  }
+  .CustomerSectionInner {
+    display: block;
+
+    margin: 1px 5%;
+    /* //   height: "200px", */
+    padding-top: 40px;
+  }
+  .ImgSlider img {
+    width: 100%;
+    height: 150px;
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "001": {
+    "dameged": [
+      {
+        "1": "Your iPad is Damaged condition if any of these are true:",
+        "2": "it does not power on or hold charge• it has a damaged LCD (discoloration, dead pixels, etc) or has a crack on the body or screen• it is not 100% functional• it has water damage.Lost, Stolen, or iCloud locked iPads are not accepted.",
+        "3": " If your iPad is cracked in half, bent or missing parts, it may receive a lower offer.",
+        "4": "45"
+      }
+    ],
+    "good": [
+      {
+        "1": "Your iPad is Good condition if it:",
+        "2": "powers on and holds charge• is fully functional, including all buttons and ports• has no cracks on the screen or body or damage on the LCD• IMEI / ESN is clear for activation by a new user (cellular version only)",
+        "3": "Lost, Stolen, or iCloud locked iPads are not accepted.",
+        "4": "190"
+      }
+    ],
+    "flawless": [
+      {
+        "1": "Your iPad is Flawless condition if it:",
+        "2": "appears to be new out of the box or still in its original package• has absolutely no scratches, scuffs or other marks• is fully functional, including all buttons and ports• IMEI / ESN is clear for activation by a new user (cellular version only)",
+        "3": "Lost, Stolen, or iCloud locked iPads are not accepted.",
+        "4": "210"
+      }
+    ]
+  },
+  "002": {
+    "dameged": [
+      {
+        "1": "Your iPad is Damaged condition if any of these are true:",
+        "2": "it does not power on or hold charge• it has a damaged LCD (discoloration, dead pixels, etc) or has a crack on the body or screen• it is not 100% functional• it has water damage.Lost, Stolen, or iCloud locked iPads are not accepted.",
+        "3": " If your iPad is cracked in half, bent or missing parts, it may receive a lower offer.",
+        "4": "35"
+      }
+    ],
+    "good": [
+      {
+        "1": "Your iPad is Good condition if it:",
+        "2": "powers on and holds charge• is fully functional, including all buttons and ports• has no cracks on the screen or body or damage on the LCD• IMEI / ESN is clear for activation by a new user (cellular version only)",
+        "3": "Lost, Stolen, or iCloud locked iPads are not accepted.",
+        "4": "150"
+      }
+    ],
+    "flawless": [
+      {
+        "1": "Your iPad is Flawless condition if it:",
+        "2": "appears to be new out of the box or still in its original package• has absolutely no scratches, scuffs or other marks• is fully functional, including all buttons and ports• IMEI / ESN is clear for activation by a new user (cellular version only)",
+        "3": "Lost, Stolen, or iCloud locked iPads are not accepted.",
+        "4": "170"
+      }
+    ]
+  },
+  "003": {
+    "dameged": [
+      {
+        "1": "Your iPad is Damaged condition if any of these are true:",
+        "2": "it does not power on or hold charge• it has a damaged LCD (discoloration, dead pixels, etc) or has a crack on the body or screen• it is not 100% functional• it has water damage.Lost, Stolen, or iCloud locked iPads are not accepted.",
+        "3": " If your iPad is cracked in half, bent or missing parts, it may receive a lower offer.",
+        "4": "305"
+      }
+    ],
+    "good": [
+      {
+        "1": "Your iPad is Good condition if it:",
+        "2": "powers on and holds charge• is fully functional, including all buttons and ports• has no cracks on the screen or body or damage on the LCD• IMEI / ESN is clear for activation by a new user (cellular version only)",
+        "3": "Lost, Stolen, or iCloud locked iPads are not accepted.",
+        "4": "1500"
+      }
+    ],
+    "flawless": [
+      {
+        "1": "Your iPad is Flawless condition if it:",
+        "2": "appears to be new out of the box or still in its original package• has absolutely no scratches, scuffs or other marks• is fully functional, including all buttons and ports• IMEI / ESN is clear for activation by a new user (cellular version only)",
+        "3": "Lost, Stolen, or iCloud locked iPads are not accepted.",
+        "4": "1070"
+      }
+    ]
+  }
+}
