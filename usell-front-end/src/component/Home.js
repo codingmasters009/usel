@@ -64,7 +64,7 @@ const Home = () => {
                 The Most Money For The Least Effort
               </p>
             </div>
-            <div >
+            <div>
               <p style={{ color: "#747774", fontSize: "22px" }}>
                 Working or damaged, sell your used phone in seconds
               </p>
@@ -145,7 +145,14 @@ const Home = () => {
             <br />
           </center>
         </div>
-        <div className="itemGrid">
+        <div
+          className="itemGrid"
+          style={{
+            display: "flex",
+            flexWrap: "wrap",
+            justifyContent: "center",
+          }}
+        >
           {data.map((value, index) => {
             console.log(config.baseURL + "images/" + value.category_img);
             return (
@@ -181,9 +188,7 @@ const Home = () => {
 
       <div className="">
         <div className="CustomerSection">
-          <center>
-            Customers Rave
-          </center>
+          <center>Customers Rave</center>
           <div className="CustomerSectionInner">
             <div style={{ display: "flex" }}>
               <img
@@ -296,8 +301,12 @@ const Home = () => {
               <img
                 src={i1}
                 alt="Girl in a jacket"
-                style={{ height: "200px", marginTop: "15px", float: "right",display: "flex" }}
-              
+                style={{
+                  height: "200px",
+                  marginTop: "15px",
+                  float: "right",
+                  display: "flex",
+                }}
               />
             </div>
             {/* <div></div> */}
