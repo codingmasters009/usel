@@ -181,7 +181,7 @@ const Home = () => {
 
       <div className="">
         <div className="CustomerSection">
-          <center >
+          <center>
             Customers Rave
           </center>
           <div className="CustomerSectionInner">
@@ -251,11 +251,11 @@ const Home = () => {
           }}
         >
           <div style={{ display: "flex" }}>
-            <div style={{ width: "20%" }}>
+            <div style={{ width: "25%" }}>
               <img
                 src={i2}
                 alt="Girl in a jacket"
-                style={{ height: "200px", marginTop: "50px " }}
+                style={{ height: "200px", marginTop: "15px " }}
               />
             </div>
             <div style={{ width: "80%" }}>
@@ -292,11 +292,12 @@ const Home = () => {
                 </center>
               </center>
             </div>
-            <div style={{ width: "20%" }}>
+            <div style={{ width: "25%" }}>
               <img
                 src={i1}
                 alt="Girl in a jacket"
-                style={{ height: "200px", marginTop: "50px " }}
+                style={{ height: "200px", marginTop: "15px", float: "right",display: "flex" }}
+              
               />
             </div>
             {/* <div></div> */}
