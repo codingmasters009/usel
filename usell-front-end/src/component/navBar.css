@@ -23,6 +23,7 @@
 .navItemtop {
   padding: 10px;
   font-size: 14px;
+  font: 300 12px 'Open Sans',verdana,arial;
   /* text-align: right; */
   cursor: pointer;
   /* border-right: 1px solid white; */
@@ -32,9 +33,16 @@
   color: #ffff00;
 }
 .navItemtopDown {
-  padding: 10px;
-  font-size: 20px;
-  opacity: 0.8;
+  height: 34px;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  font: 300 20px 'Open Sans',verdana,arial;
+  padding-top: 8px;
+  padding: 12px;
+  text-decoration: none;
+  display: block;
+  transition: border 300ms linear;
   /* text-align: right; */
   /* border-right: 1px solid lightgray; */
 }
