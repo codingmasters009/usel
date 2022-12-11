@@ -19,7 +19,7 @@ const Footer2 = () => {
   }, [stateFooter]);
   return (
     <>
-      <div className="footerRootSection" style={{}}>
+      <div className="footerRootSection" style={{ marginTop: "0px" }}>
         <div className="d-flex flex-column h-100" style={{ color: "white" }}>
           <footer className="w-100 py-4 flex-shrink-0">
             <div className="container py-4 containerUpdate">

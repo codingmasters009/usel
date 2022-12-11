@@ -12,6 +12,7 @@
   padding: 50px 20px;
   width: 30%;
 }
+
 .gdivideSection {
   margin: 30px 20%;
   display: flex;
@@ -87,8 +88,12 @@
 }
 .OfferBodyDivision {
   width: 100%;
+  /* display: flex; */
   display: flex;
+<<<<<<< Updated upstream
   /* display: "flex", */
+=======
+>>>>>>> Stashed changes
   flex-wrap: wrap;
   justify-content: center;
 

@@ -145,6 +145,7 @@ const Home = () => {
             <br />
           </center>
         </div>
+<<<<<<< Updated upstream
         <div
           className="itemGrid"
           style={{
@@ -184,6 +185,56 @@ const Home = () => {
             );
           })}
         </div>
+=======
+        <center>
+          <div>
+            <div
+              className="itemGrid "
+              style={{
+                display: "flex",
+                flexWrap: "wrap",
+                justifyContent: "center",
+              }}
+            >
+              {data.map((value, index) => {
+                console.log(config.baseURL + "images/" + value.category_img);
+                return (
+                  <Link
+                    to={
+                      "/Varient/" +
+                      value.category_name +
+                      "/" +
+                      value.category_id
+                    }
+                    className=" "
+                  >
+                    <div className="productGridItem">
+                      <div className="imgdivProduct">
+                        <img
+                          // crossOrigin="anonymous"
+                          height="100%"
+                          src={config.baseImg + value.category_img}
+                          // src={
+                          //   "http://localhost:5005/images/img1670493598217_acomputer01.png"
+                          // }
+                          // src={value.category_img}
+                          alt="img not found"
+                          style={{ width: "100%", height: "90px" }}
+                        />
+                      </div>{" "}
+                      <center>
+                        <label>
+                          <b>{value.category_name}</b>
+                        </label>
+                      </center>
+                    </div>
+                  </Link>
+                );
+              })}
+            </div>
+          </div>
+        </center>
+>>>>>>> Stashed changes
       </div>
 
       <div className="">
@@ -250,6 +301,8 @@ const Home = () => {
           className="ImgSlider"
           style={{
             backgroundColor: "#F54C45",
+            // border: "1px solid red",
+            marginBottom: "0px",
             color: "white",
             paddingTop: "30px",
             paddingBottom: "50px",
@@ -297,15 +350,32 @@ const Home = () => {
                 </center>
               </center>
             </div>
+<<<<<<< Updated upstream
             <div style={{ width: "25%" }}>
+=======
+            <div
+              style={{
+                width: "20%",
+                // border: "1px solid red",
+                overflow: "hidden",
+              }}
+            >
+>>>>>>> Stashed changes
               <img
                 src={i1}
                 alt="Girl in a jacket"
                 style={{
+<<<<<<< Updated upstream
                   height: "200px",
                   marginTop: "15px",
                   float: "right",
                   display: "flex",
+=======
+                  width: "290px",
+                  height: "200px",
+                  marginTop: "50px",
+                  marginRight: "opx",
+>>>>>>> Stashed changes
                 }}
               />
             </div>

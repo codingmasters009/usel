@@ -3,7 +3,12 @@ import { useParams } from "react-router-dom";
 import varientInfo from "../images/varientInfo.png";
 import { Link } from "react-router-dom";
 import { config } from "../config/config";
-import a1 from "../images/tech/ssd.jpg";
+import s1 from "../images/s1.png";
+import s2 from "../images/s2.png";
+import s3 from "../images/s3.png";
+import s4 from "../images/s4.png";
+import s5 from "../images/s5.png";
+// import s1 from "../images/s1.png";
 import varientData from "../data/images/dynamic/varient.json";
 import categoryData from "../data/images/dynamic/category.json";
 const Varient = () => {
@@ -75,13 +80,52 @@ const Varient = () => {
         <div className="productInfo">
           <div style={{ width: "50%" }}>
             <div>
-              {categoryData.map((value, index) => {
-                return (
-                  <div>
-                    {value.id == id ? <div>{value.description}</div> : null}
+              {cat == "Phone" ? (
+                <div>
+                  <div style={{ fontSize: "18px", fontWeight: "bold" }}>
+                    Mobile Phone Trade-In & Buyback
                   </div>
+                  <p style={{ fontSize: "15px", color: "gray" }}>
+                    Sell your mobile phone for cash at uSell.com. With our
+                    mobile phone trade-in program, you can compare cash offers
+                    from hundreds of professional buyers in seconds. We make it
+                    easy for you to turn your old and unwanted cell phones into
+                    cash, quickly and hassle-free.
+                  </p>
+                  <br />
+                  <p style={{ fontSize: "15px", color: "gray" }}>
+                    Start by selecting the brand of cell phone you are selling
+                    from the list above, and then you'll be able to specify the
+                    model and condition of your phone. We'll instantly match you
+                    with the top offer for your device, and we'll send you a
+                    postage-paid shipping kit for you to mail it in for free and
+                    get paid.
+                  </p>
+                  <div style={{ fontSize: "18px", fontWeight: "bold" }}>
+                    How to Trade In Your Mobile Phone
+                  </div>
+                  <p style={{ fontSize: "15px", color: "gray" }}>
+                    After you send in your cell phone, your buyer will inspect
+                    your device and, as long as your device matches your
+                    description, the buyer will issue you payment via check or
+                    PayPal for your mobile phone. We provide the best cell phone
+                    buyback program on the web!
+                  </p>
+                  <br />
+                  <p style={{ fontSize: "15px", color: "gray" }}>
+                    Trending Search Terms: <a href="#">sell iphone</a>,
+                    <a href="#">sell ipad</a>{" "}
+                  </p>
+                </div>
+              ) : null}
+              {/* {categoryData.map((value, index) => {
+                return (
+                  <>h</>
+                  // <div>
+                  //   {value.id == id ? <div>{value.description}</div> : null}
+                  // </div>
                 );
-              })}
+              })} */}
             </div>
             {/* {cat == "ipad" ? (
               <div className="productdata">
@@ -248,12 +292,49 @@ const Varient = () => {
           </div>
           <div style={{ width: "50%" }}>
             <center>
-              {" "}
-              <img
+              <div>
+                <div style={{ color: "#506383", fontSize: "24px" }}>
+                  “My favorite of the selling sites.”
+                </div>
+                <div
+                  style={{
+                    color: "#506383",
+                    fontSize: "12px",
+                    textAlign: "left",
+                    marginLeft: "25px",
+                    marginTop: "5px",
+                  }}
+                >
+                  -Jean Chatzky, NBC Today Show
+                  <img
+                    src={s1}
+                    style={{ width: "40px", height: "40px", marginTop: "0px" }}
+                  />
+                </div>
+                <div style={{ marginTop: "10px" }}>
+                  <img
+                    src={s2}
+                    style={{ width: "60px", height: "40px", marginTop: "0px" }}
+                  />
+                  <img
+                    src={s3}
+                    style={{ width: "60px", height: "40px", marginTop: "0px" }}
+                  />
+                  <img
+                    src={s4}
+                    style={{ width: "60px", height: "40px", marginTop: "0px" }}
+                  />
+                  <img
+                    src={s5}
+                    style={{ width: "60px", height: "40px", marginTop: "0px" }}
+                  />
+                </div>
+              </div>
+              {/* <img
                 src={varientInfo}
                 // alt="Girl in a jacket"
-                style={{ width: "100%", height: "200px", marginTop: "100px" }}
-              />
+                style={{ width: "100%", height: "200px", marginTop: "0px" }} */}
+              {/* /> */}
             </center>
           </div>
         </div>
