@@ -90,10 +90,6 @@
   width: 100%;
   /* display: flex; */
   display: flex;
-<<<<<<< Updated upstream
-  /* display: "flex", */
-=======
->>>>>>> Stashed changes
   flex-wrap: wrap;
   justify-content: center;
 
